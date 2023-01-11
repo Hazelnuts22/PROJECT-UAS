@@ -22,8 +22,8 @@ Cara Menjalankan Program :
 
 https://drive.google.com/file/d/1woD0eG-jMbo5yS44BhIXhqFLMO1XjJvm/view?usp=share_link
 
-Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
-Berikut link youtube :
+**Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
+Berikut link youtube :**
 
 https://youtu.be/4bs84fgQpFc
 
